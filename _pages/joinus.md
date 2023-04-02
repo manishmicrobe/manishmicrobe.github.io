@@ -7,6 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Like what you see?
 
-Organize your courses by years, topics, or universities, however you like!
+We are constantly looking for excellent candidates from diverse backgrounds to join our group as research interns, engineers, PhD students, or postdocs. If interested, write to me at <SCRIPT LANGUAGE="JavaScript">user = 'manish.kushwaha';site = 'inrae.fr';document.write('<a href=\"mailto:' + user + '@' + site + '\">');document.write(user + '@' + site + '</a>');</SCRIPT>.
