@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/'>Micalis Institute</a>. #Address. Contacts. Moto. Etc.
+subtitle: #<a href='https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/'>Micalis Institute</a>. #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Institut Micalis, INRAE</p>
-    <p>Bat. 440, Domaine de Vilvert</p>
-    <p>78352 Jouy-en-Josas, France</p>
+    <p>Domaine de Vilvert</p>
+    <p>78352 Jouy-en-Josas</p>
+    <p>France</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
