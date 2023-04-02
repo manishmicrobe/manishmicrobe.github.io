@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Micalis Institute</a>. #Address. Contacts. Moto. Etc.
+subtitle: <a href='[#](https://www.micalis.fr/micalis_eng/Home/Micalis-Institute)'>Micalis Institute</a>. #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
