@@ -2,7 +2,7 @@
 layout: page
 permalink: /igem/
 title: iGEM
-description: iGEM activities.
+description: #iGEM activities.
 nav: true
 nav_order: 4
 ---
