@@ -2,7 +2,7 @@
 layout: page
 permalink: /joinus/
 title: join us
-description: Join our team.
+description: #Join our team.
 nav: true
 nav_order: 5
 ---
