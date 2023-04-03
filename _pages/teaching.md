@@ -7,6 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I teach the following courses at the University of Paris-Saclay and AgroParisTech:
 
-Organize your courses by years, topics, or universities, however you like!
+*2017−now: UE1.2: Biological Parts and Devices [ECTS 3.5], [Master’s in Systems and Synthetic Biology (mSSB)](https://www.mssb.fr/program-overview/), University of Paris-Saclay. (co-taught with Cyrille Pauthenier)
+
+*2019−2021: Synthetic Biology lecture series, AgroParisTech.
+
