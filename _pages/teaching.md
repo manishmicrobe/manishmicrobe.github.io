@@ -15,3 +15,4 @@ I teach the following courses at the University of Paris-Saclay and AgroParisTec
 
 Teaching and evaluation materials will be updated below, when the courses are in session.
 
+### Teaching materials
