@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mbyhrnpax7.github.io/sitemap.xml
+Sitemap: https://manishmicrobe.github.io/sitemap.xml
