@@ -11,7 +11,7 @@ nav_order: 4
 
 A key way of sustaining scientific research and innovation is to nurture and encourage the curiosity of a younger generation of students and research trainees. The [International Genetic Engineering Machine (iGEM)](https://competition.igem.org/) competition is an excellent introduction to Synthetic Biology research for young students, and I have been participating in it in different capacities since 2013.
 
-If you are in the Paris region, and want to join our Evry Paris-Saclay iGEM team, please write to me at <manish.kushwaha@inrae.fr> or to <igemevry@gmail.com>.
+If you are in the Paris region, and want to join our Evry Paris-Saclay iGEM team, please write to <igemevry@gmail.com>.
 
 ### My iGEM association
 * Judge, iGEM jamboree, Paris (2022)
