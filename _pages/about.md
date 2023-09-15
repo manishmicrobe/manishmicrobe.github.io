@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p align='justify'>I am a Principal Investigator at the <a href='https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/'>Micalis Institute</a>, a joint research centre of <a href='https://www.agroparistech.fr/en'>AgroParisTech</a>, <a href='https://www.inrae.fr/en'>INRAE</a>, and the <a href='https://www.universite-paris-saclay.fr/en'>University of Paris-Saclay</a>.</p>
+<p align='justify'>I am a Principal Investigator at the <a href='https://www.micalis.fr/'>Micalis Institute</a>, a joint research centre of <a href='https://www.agroparistech.fr/en'>AgroParisTech</a>, <a href='https://www.inrae.fr/en'>INRAE</a>, and the <a href='https://www.universite-paris-saclay.fr/en'>University of Paris-Saclay</a>.</p>
 
 <p align='justify'>Our lab applies experimental and theoretical methods to the <b>design of biological systems across scales</b>: in <i>cell-free expression systems</i>, in <i>bacterial cells of diverse species</i>, and in <i>bacterial co-cultures</i>. Our research focusses on improving the predictable and automatable design of synthetic genetic and metabolic circuits, while expanding their cross-system compatibility. For details, please see the <a href='/research'>Research</a> page.</p>
