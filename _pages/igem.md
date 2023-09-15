@@ -15,7 +15,7 @@ If you are in the Paris region, and want to join our Evry Paris-Saclay iGEM team
 
 ### My iGEM association
 * Judge, iGEM jamboree, Paris (2022)
-* Panelist, Mental Health in STEM discussion, iGEM jamboree, Paris (2022)
+* Panelist, iGEM jamboree, Paris (2022)
 * Co-PI, [Evry Paris-Saclay iGEM team (2022)](https://2022.igem.wiki/evry-paris-saclay/index.html)
 * Judge, iGEM jamboree, online (2021)
 * Co-PI, [Evry Paris-Saclay iGEM team (2021)](https://2021.igem.org/Team:Evry_Paris-Saclay)
