@@ -14,6 +14,8 @@ A key way of sustaining scientific research and innovation is to nurture and enc
 If you are in the Paris region, and want to join our Evry Paris-Saclay iGEM team, please write to <igemevry@gmail.com>.
 
 ### My iGEM association
+* Judge, iGEM jamboree, Paris (2023)
+* Co-PI, [Evry Paris-Saclay iGEM team (2023)](https://2023.igem.wiki/evry-paris-saclay/index.html)
 * Judge, iGEM jamboree, Paris (2022)
 * Panelist, iGEM jamboree, Paris (2022)
 * Co-PI, [Evry Paris-Saclay iGEM team (2022)](https://2022.igem.wiki/evry-paris-saclay/index.html)
