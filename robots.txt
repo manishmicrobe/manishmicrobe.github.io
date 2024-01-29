@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://manishmicrobe.github.io/sitemap.xml
+Sitemap: https://manishkushwaha.net/sitemap.xml
