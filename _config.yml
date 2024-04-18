@@ -80,7 +80,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: kushwahamanish # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: JsXHBggAAAAJ # your Google Scholar ID
-hal_id: manish-kushwaha # your HAL ID
+hal_id: 737735 # your HAL ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-8850-3272 # your ORCID ID
