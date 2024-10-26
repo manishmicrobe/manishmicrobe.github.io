@@ -17,9 +17,9 @@ Teaching and evaluation materials will be updated below, when the courses are in
 
 ### Teaching materials
 
-#### mSSB materials (2024)
+#### mSSB (2024)
 
-Since I started teaching this course in 2017, I have been regularly updating it to include relevant (but not exhaustive) examples from synthetic biology literature. In the past, several students have found these slides to be useful as reference material. 
+Since I started teaching this course in 2017, I have been regularly updating it to include relevant examples (non-exhaustive) from synthetic biology literature. In the past, several students have found these slides to be useful as reference material. 
 
 So, I post the most recent ones below in the hope that others will also find them useful. 
 * Lecture-1: [What is Synthetic Biology?](/assets/pdf/Lecture-1_2024_mSSB_UE2.1_Synbio_Intro.pdf)
