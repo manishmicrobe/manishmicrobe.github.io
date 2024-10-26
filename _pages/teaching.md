@@ -13,15 +13,14 @@ I teach the following courses at the University of Paris-Saclay and AgroParisTec
 
 * 2019−2022: Synthetic Biology lecture series, AgroParisTech.
 
-Teaching and evaluation materials will be updated below, when the courses are in session.
 
 ### Teaching materials
 
-#### mSSB (2024)
+* mSSB (2024)
 
-Since I started teaching this course in 2017, I have been regularly updating it to include relevant examples (non-exhaustive) from synthetic biology literature. In the past, several students have found these slides to be useful as reference material. 
+Since I started teaching this course in 2017, I have been regularly updating it to include relevant examples (non-exhaustive) from synthetic biology literature. 
 
-So, I post the most recent ones below in the hope that others will also find them useful. 
+I post the most recent ones below in the hope that others will also find them useful. 
 * Lecture-1: [What is Synthetic Biology?](/assets/pdf/Lecture-1_2024_mSSB_UE2.1_Synbio_Intro.pdf)
 * Lecture-3a: [Molecular Cloning for Biological Expression Design](/assets/pdf/Lecture-3a_2024_mSSB_UE2.1_Molecular_Cloning.pdf)
 * Lecture-3b: [Sequence Editing Exercise](/assets/pdf/Lecture-3b_2024_mSSB_UE2.1_Sequence_Editing.pdf)
