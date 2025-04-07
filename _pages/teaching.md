@@ -31,4 +31,4 @@ I post the most recent slides below in the hope that others will find them usefu
 
 For the mSSB class schedule, see [here](https://www.mssb.fr/schedule/).
 
-If you have any questions or comments, please contact me at <manish.kushwaha@inrae.fr>.
+If you have any questions or comments, please contact <manish.kushwaha@inrae.fr>.
