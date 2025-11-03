@@ -16,8 +16,8 @@ If you are interested in working with us, please contact me at <manish.kushwaha@
 <p align='justify'>To apply for an advertised position, please follow the instructions below.</p>
 
 ### Open positions
-* Master's internship: [High-throughput Estimation of Protein Expression costs](/assets/pdf/Masters 2026 HT_Expression_Cost.pdf)
-* Master's internship: [Nutritional state recording](/assets/pdf/Masters 2026 NutriRecord.pdf)
+* ~~Master's internship: [High-throughput Estimation of Protein Expression costs](/assets/pdf/Masters 2026 HT_Expression_Cost.pdf)~~
+* ~~Master's internship: [Nutritional state recording](/assets/pdf/Masters 2026 NutriRecord.pdf)~~
 * ~~PhD studentship: [Cross- & Multi-species Circuits](/assets/pdf/PhD 2025 - Cross- & Multi-species Genetic Circuits.pdf)~~
 * ~~PhD studentship: [Cross-species Resource-Aware Design](/assets/pdf/)~~
 * ~~PhD studentship: [Expression Costs of Synthetic Genetic Circuits](/assets/pdf/)~~
