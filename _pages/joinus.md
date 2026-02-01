@@ -9,7 +9,7 @@ nav_order: 5
 
 ### Like what you see?
 
-<p align='justify'>We are always looking for excellent candidates from diverse backgrounds (biologists, engineers, bioinformaticians, among others) to join our team at various levels: research interns, engineers, doctoral candidates, and postdocs.</p>
+<p align='justify'>We are always looking for excellent candidates from diverse backgrounds (biologists, engineers, bioinformaticians, among others) to join our team at various levels: research interns, engineers, doctoral candidates, and postdocs.</p> 
 
 If you are interested in working with us, please contact me at <manish.kushwaha@inrae.fr>, briefly describing your research interests and why you think our lab could be a good fit for you.
 
